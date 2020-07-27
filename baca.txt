@@ -1,0 +1,11 @@
+selamat datang di aplikasi penjualan polkammart
+
+login Admin :
+username : dicky
+pass     : 12345
+
+login petugas:
+username : prima
+pass     : 12345
+
+selamat mencoba.....
